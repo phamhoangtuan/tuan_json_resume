@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "Pham Hoang Tuan",
+    "label": "Data Engineer at Honestbee",
+    "picture": "",
+    "email": "phamhoangtuan.it@gmail.com",
+    "phone": "(65) 81097046",
+    "location": {
+      "address": "47 Joo Chiat Lane",
+      "postalCode": "Singapore 428105",
+      "countryCode": "SG"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "phamhoangtuan",
+        "url": "https://www.linkedin.com/in/phamhoangtuan/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Honestbee",
+      "position": "Data Engineer",
+      "website": "https://www.honestbee.com",
+      "startDate": "2016-09-19",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "company": "Crayon Data",
+      "position": "Data Engineer & Data Science Internship",
+      "website": "http://www.crayondata.com",
+      "startDate": "2015-08-01",
+      "endDate": "2016-03-31",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "company": "FPT Sofrware",
+      "position": "Software Developer",
+      "website": "https://www.fpt-software.com",
+      "startDate": "2013-06-01",
+      "endDate": "2014-11-30",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "National University of Singapore",
+      "area": "Knowledge Engineering",
+      "studyType": "Master of Technology",
+      "startDate": "2015-01-01",
+      "endDate": "2016-05-31",
+      "gpa": "3.94"
+    },
+    {
+      "institution": "FPT University",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-01",
+      "endDate": "2013-04-30",
+      "gpa": "4.07"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python",
+        "SQL",
+        "Shell Scripts"
+      ]
+    },
+    {
+      "name": "Others",
+      "keywords": [
+        "Amazon Web Service",
+        "Data Infrastructure",
+        "Distributed System",
+        "Docker",
+        "Statistical Data Analysis"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Vietnamese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Football",
+        "Frisbee",
+        "Running",
+        "Bodybuilding"
+      ]
+    },
+    {
+      "name": "Computer gaming"
+    },
+    {
+      "name": "Reading books"
+    }
+  ]
+}
