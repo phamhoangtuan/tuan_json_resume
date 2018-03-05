@@ -6,9 +6,9 @@
     "email": "phamhoangtuan.it@gmail.com",
     "phone": "(65) 81097046",
     "location": {
-      "address": "47 Joo Chiat Lane",
-      "postalCode": "Singapore 428105",
-      "countryCode": "SG"
+      "address": "47 Joo Chiat Lane, Singapore 428105",
+      "postalCode": "428105",
+      "countryCode": "Singapore"
     },
     "profiles": [
       {
@@ -25,9 +25,9 @@
       "website": "https://www.honestbee.com",
       "startDate": "2016-09-19",
       "highlights": [
-        "Building data pipline to collect data from many data sources (including third parties), process/transfer data and store data in datawarehouse.",
-        "Buidling data warehouse to store data and export useful information/insight to internal users via reports.",
-        "Maintaining data infrastructure, data productions such as predictive models, dynamic pricing, product ranking and recommendation systems."
+        "Build a data pipline to collect data from many data sources (including third parties), process/transfer data and store data in datawarehouse.",
+        "Build a data warehouse to store data and export useful information/insight to internal users via reports.",
+        "Maintain data infrastructure, data productions such as predictive models, dynamic pricing, product ranking and recommendation systems.",
         "Technologies: Amazon Redshift, Amazon S3, Amazon RDS and other Amazon Web Services, Python, Docker, Airbnb's Airflow, Looker, and so on."
       ]
     },
@@ -38,9 +38,9 @@
       "startDate": "2015-08-01",
       "endDate": "2016-03-31",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Develop a crawler to crawl data from e-commerce websites.",
+        "Develop an extractor to retrieve information from websites based on the HTML structure.",
+        "Technologies: Java, Python."
       ]
     },
     {
@@ -50,9 +50,11 @@
       "startDate": "2013-06-01",
       "endDate": "2014-11-30",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Develop a mobile app to track salesmans' performance by rich data visualization.",
+        "Optimize Javascript codes to enhance application's performance.",
+        "Develop a web portal that can query data by API and export reports.",
+        "Develop a data warehouse to store data and export dynamic reports.",
+        "Technologies: C#, Sencha Touch, Silverlight, and so on."
       ]
     }
   ],
@@ -86,7 +88,7 @@
     {
       "name": "Others",
       "keywords": [
-        "Amazon Web Service",
+        "Amazon Web Services",
         "Data Infrastructure",
         "Docker",
         "Statistical Data Analysis"
@@ -109,8 +111,7 @@
       "keywords": [
         "Football",
         "Frisbee",
-        "Running",
-        "Bodybuilding"
+        "Running"
       ]
     },
     {
