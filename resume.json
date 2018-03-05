@@ -25,9 +25,9 @@
       "website": "https://www.honestbee.com",
       "startDate": "2016-09-19",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Building data pipline to collect data from many data sources (including third parties), process/transfer data and store data in datawarehouse",
+        "Buidling data warehouse to store data and export useful information/insight to internal users via reports",
+        "Maintaining data infrastructure, data productions such as predictive models, dynamic pricing, product ranking and recommendation systems"
       ]
     },
     {
@@ -87,7 +87,6 @@
       "keywords": [
         "Amazon Web Service",
         "Data Infrastructure",
-        "Distributed System",
         "Docker",
         "Statistical Data Analysis"
       ]
