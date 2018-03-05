@@ -25,9 +25,10 @@
       "website": "https://www.honestbee.com",
       "startDate": "2016-09-19",
       "highlights": [
-        "Building data pipline to collect data from many data sources (including third parties), process/transfer data and store data in datawarehouse",
-        "Buidling data warehouse to store data and export useful information/insight to internal users via reports",
-        "Maintaining data infrastructure, data productions such as predictive models, dynamic pricing, product ranking and recommendation systems"
+        "Building data pipline to collect data from many data sources (including third parties), process/transfer data and store data in datawarehouse.",
+        "Buidling data warehouse to store data and export useful information/insight to internal users via reports.",
+        "Maintaining data infrastructure, data productions such as predictive models, dynamic pricing, product ranking and recommendation systems."
+        "Technologies: Amazon Redshift, Amazon S3, Amazon RDS and other Amazon Web Services, Python, Docker, Airbnb's Airflow, Looker, and so on."
       ]
     },
     {
