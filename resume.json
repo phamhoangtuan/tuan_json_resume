@@ -20,12 +20,22 @@
   },
   "work": [
     {
+      "company": "BoostML",
+      "position": "DevOps",
+      "website": "https://boostml.com",
+      "startDate": "2018-04-01",
+      "highlights": [
+        "Deploy Kubernetes infrastructure in on-premise and cloud environment",
+        "Technologies: Ansible, Terraform, Vagrant"
+      ]
+    },
+    {
       "company": "Honestbee",
       "position": "Data Engineer",
       "website": "https://www.honestbee.com",
       "startDate": "2016-09-19",
       "highlights": [
-        "Build a data pipline to collect data from many data sources (including third parties), process/transfer data and store data in datawarehouse.",
+        "Build a data pipeline to collect data from many data sources (including third parties), process/transfer data and store data in datawarehouse.",
         "Build a data warehouse to store data and export useful information/insight to internal users via reports.",
         "Maintain data infrastructure, data productions such as predictive models, dynamic pricing, product ranking and recommendation systems.",
         "Technologies: Amazon Redshift, Amazon S3, Amazon RDS and other Amazon Web Services, Python, Docker, Airbnb's Airflow, Looker, and so on."

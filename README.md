@@ -22,4 +22,9 @@ resume test
 resume export [fileName].[format] --theme [themeName]
 ```
 
+* Command used frequently
+```
+resume export phamhoangtuan.pdf --theme paper
+```
+
 Reference: [resume-cli](https://github.com/jsonresume/resume-cli)
