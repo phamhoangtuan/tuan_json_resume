@@ -25,8 +25,8 @@
       "website": "https://boostml.com",
       "startDate": "2018-04-01",
       "highlights": [
-        "Deploy Kubernetes infrastructure in on-premise and cloud environment",
-        "Technologies: Ansible, Terraform, Vagrant"
+        "Deploy Kubernetes infrastructure in on-premises and cloud environment",
+        "Technologies: Ansible, Kubernetes, Helm, Terraform, Vagrant"
       ]
     },
     {
